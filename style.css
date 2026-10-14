@@ -1,0 +1,308 @@
+body{
+    background-color: #3F1414;
+    overflow-x: hidden;
+   
+
+}
+ul{
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    gap: 70px;
+    justify-content: right;
+    margin-right: 80px;
+    font size: 20px;
+    list-style-type: none;
+
+    }
+.coffee{
+        width: 60px;
+    }
+.logo-text{
+        font-size: 25px;
+        font-weight: bold;
+        margin-top: -40px;
+        margin-left: 60px;
+}
+.logos{
+    margin-top: -30px;
+    margin-right: 330px;
+}
+.head1{
+color: #F49320;
+font-family: "Cookie", cursive;
+font-size: 50px;
+}
+.head2{
+color: white;
+font-size: 30px;
+font-family: Arial, Helvetica, sans-serif;
+line-height: 35px;
+}
+.p{
+    color: white;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 20px;
+
+}
+.order{
+    background-color: #F49320 ;
+    color: black;
+    border-radius: 40px;
+    border: none;
+    height: 50px;
+    width: 140px;
+    font-size: 18px;
+    
+
+}
+.contact{
+    color: white;
+    background-color: transparent;
+    border-radius: 40px;
+    border: none;
+    height: 50px;
+    width: 140px;
+    font-size: 18px;
+    border: 2px solid white;
+    margin-left: 10px;
+}
+.text{
+    margin-left:59px ;
+    margin-top: 130px;
+}
+.image{
+    display: flex;
+    justify-content: right;
+    margin-top: -350px;
+}
+.cup-pic{
+    width: 450px;
+    margin-right: 80px;
+    margin-bottom: 90px;
+
+}
+.about-us{
+    background-color: white;
+    height: 500px;
+
+}
+.man-pic{
+  border-radius: 100%;
+  height:350px;
+  width: 350px;
+  margin-left: 60px;
+  margin-top: 80px;
+}
+.about-text{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    margin-right: 400px;
+}
+.h3{
+   
+font-size: 30px;
+margin-left: 750px;
+margin-top: -300px;
+
+}
+.para{
+    font-size: 16px;
+    text-transform: none;
+    line-height: 28px;
+    text-align: center;
+    margin-right: -750px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 35px;
+}
+.icons img{
+    height: 20px; 
+}
+.icons{
+    margin-left: 810px;
+}
+.ruler{
+    margin-left: 790px;
+    margin-top: -15px;
+    
+}
+.menu{
+    background-color: #252525;
+    height: 1050px;
+}
+.menu-text{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: white;
+    text-transform: uppercase;
+}
+.ruler2{
+    margin-left: 620px;
+    margin-top: -15px;
+}
+.menu-card h3{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-weight: bold;
+    margin-top: 30px;
+}
+.menu-card p{
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    line-height: 20px;
+
+}
+.menu-card img{
+    height: 250px;
+}
+.menu-card{
+    text-align: center;
+    gap: 190px;
+justify-content: center;
+    flex-wrap: wrap;
+    display: flex;
+    margin-top: 50PX;
+    row-gap: 45PX;
+
+}
+.testi{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: black;
+    text-transform: uppercase;
+}
+.ruler3{
+    margin-left: 620px;
+    margin-top: -15px;
+}
+.testimonial-card img{
+    border-radius: 100%;
+    width: 80px;
+}
+.testimonial-card h1{
+    font-size: 20px;
+    color: black;
+    font-weight: bold;
+
+}
+.testimonial-card p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: black;
+    line-height: 20px;
+    }
+.testi-menu{
+        background-color: #faf4f4;
+        height: 400px;
+        }
+
+.testimonial-card{
+
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    text-align: center;
+    margin-bottom: 800px;
+
+}
+
+.dots{
+    margin-bottom: -190px;
+    margin-left: -800px;
+    align-items: center;
+    height: 50PX;
+   
+}
+ .BOX{
+    background-color: white;
+    height: 1050px;
+    margin-top: -730PX;
+    
+ }
+
+ .BOX h2{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+   
+   
+ }
+ .ruler9{
+    margin-left: 630px;
+    margin-top: -15px;
+    
+ }
+.BOX IMG{
+    
+    height: 400PX;
+    width: 400PX;
+}
+ .lastscet{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin-left: 640px;
+   
+ }
+ .us{
+    background-color: #faf4f4;
+    margin-top: -20PX;
+    height: 500px ;
+ }
+  .ruler10{
+    margin-top: -10px;
+  }
+
+ .info{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 60px;
+    margin-top: 60px;
+}
+
+.info img{
+    width: 30px;
+   margin-top: 15px;
+   margin-bottom: -9px;
+   margin-right: 15px;
+}
+.form{
+    margin-left: 863px;
+    margin-top: -300px;
+}
+
+.form input{
+    width:400px;
+    height: 40px;
+    border: 1px solid rgb(213, 213, 213);
+    border-radius: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+textarea{
+    width: 400px;
+     border: 1px solid rgb(213, 213, 213);
+    border-radius: 8px;
+    height: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.form button{
+    background-color: #3d141d;
+    color: white;
+    font-size: 20px;
+    width: 120px;
+    height: 40px;
+    border: none;
+    border-radius: 20px;
+}
+li:hover{
+    color: #ec9428;
+    font-weight: bold;
+    cursor: pointer;
+}
